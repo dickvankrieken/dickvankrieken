@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 👨‍💻 I'm Dick van Krieken and I am a web developer and software engineer.
 - 🌱 I’m currently learning the C Programming Language
 - 🔭 I’m currently working on a project where I recreate the functionality of the UNIX pipe (|) operator
 - ✍️ I write about the things that I learn at https://dickvankrieken.github.io
