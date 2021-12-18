@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning the C Programming Language
+- 🔭 I’m currently working on a project where I recreate the functionality of the UNIX pipe (|) operator
+- ✍️ I write about the things that I learn at https://dickvankrieken.github.io
+
+
 <!--
 **dickvankrieken/dickvankrieken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
