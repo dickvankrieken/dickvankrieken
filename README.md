@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm Dick van Krieken and I am a web developer and software engineer.
 - 🌱 I’m currently learning the C Programming Language
-- 🔭 I’m currently working on a project in which I built my own version of the Bash Unix-shell.
+- 🔭 I’m currently working on a project where I built my own version of the Bash Unix-shell.
 - 🕸 I also enjoy making things on the web using HTML, CSS and JavaScript
 - ✍️ I write about the things that I learn at www.dickvankrieken.com
 
